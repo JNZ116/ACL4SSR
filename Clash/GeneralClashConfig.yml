@@ -58,8 +58,8 @@ dns:
   enhanced-mode: fake-ip
   nameserver:
     - https://doh.pub/dns-query
-    - https://dns.rubyfish.cn/dns-query
-    - tls://dns.rubyfish.cn:853
+    # - https://dns.rubyfish.cn/dns-query
+    # - tls://dns.rubyfish.cn:853
     # - 119.29.29.29
     - 202.120.224.26
     - 61.129.42.6
