@@ -60,6 +60,7 @@ dns:
     - https://dns.rubyfish.cn/dns-query
     - tls://dns.rubyfish.cn:853
     # - 119.29.29.29
+    - 117.50.10.10
     - 202.120.224.26
     - 61.129.42.6
   fallback:
